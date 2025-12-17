@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/Datalens-white?logo=Datalens&style=for-the-badge" title="DataLens" alt="DataLens" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT" title="GIT" alt="GIT" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/-Google_Sheets-FFF?style=for-the-badge&logo=GoogleSheets" title="GoogleSheets" alt="GoogleSheets" height="40"/>&nbsp;
-</div>
 <hr>
 
 ### :metal: Умею : 
