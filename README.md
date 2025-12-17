@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Datalens-white?logo=Datalens&style=for-the-badge" title="DataLens" alt="DataLens" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT" title="GIT" alt="GIT" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/-Google_Sheets-FFF?style=for-the-badge&logo=GoogleSheets" title="GoogleSheets" alt="GoogleSheets" height="40"/>&nbsp;
+</div>
 <hr>
 
 ### :metal: Умею : 
@@ -41,4 +42,9 @@
   <li>Формирование дашбордов
   <li>Расчет ключевых метрик продукта: ARPU, ARPPU, retention, conversion, churn rate
   </ul>
+
+### :book: Мои проекты:
+За время обучения на курсе "Аналитик данных" и проектную деятельность мной выполнено около 25 проектов. Здесь собрал наиболее интересные:
+|Название проекта| Описание проекта| Стек|
+|----------------|-----------------|-----|
 
