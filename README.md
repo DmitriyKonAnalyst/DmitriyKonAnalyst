@@ -19,7 +19,6 @@
 ### 🛠️ Языки и инструменты : 
 <div>
   <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-SQL-00A4EF?style=for-the-badge&logo=SQL" title="SQL" alt="SQL" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&s&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge" title="Numpy" alt="Numpy" height="40"/>&nbsp;
