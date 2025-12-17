@@ -15,6 +15,7 @@
 
 ### 📫 Свяжитесь со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dima_konovalov)
+[![Яндекс.Почта](https://img.shields.io/badge/Яндекс.Почта-FF0000?style=for-the-badge&logo=yandex&logoColor=white)](mailto:AlbusKon@yandex.ru)
 ### 🛠️ Языки и инструменты : 
 <div>
   <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
@@ -29,8 +30,6 @@
   <img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Datalens-white?logo=Datalens&style=for-the-badge" title="DataLens" alt="DataLens" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Airflow-white?style=for-the-badge&logo=Apache%20Airflow&logoColor=black" title="Airflow" alt="Airflow" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API" title="API" alt="API" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT" title="GIT" alt="GIT" height="40"/>&nbsp;
 </div>
 <hr>
